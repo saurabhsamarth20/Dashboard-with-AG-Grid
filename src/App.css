@@ -1,0 +1,13 @@
+.app-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    background-color: #f8f9fa;
+    font-family: 'Inter', sans-serif;
+}
+
+.main-content {
+    flex: 1;
+    overflow: hidden;
+    padding: 1.5rem;
+}
